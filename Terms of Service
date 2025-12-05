@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kompare AI – Terms of Service</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            color: #8b0000; /* Darker red for emphasis */
+            border-bottom: 3px solid #8b0000;
+            padding-bottom: 10px;
+            margin-bottom: 5px;
+            text-align: center;
+        }
+        h2 {
+            color: #444;
+            margin-top: 30px;
+            padding-top: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        h3 {
+            color: #555;
+            margin-top: 15px;
+        }
+        p, ul {
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style-type: square;
+            padding-left: 25px;
+        }
+        .disclaimer {
+            border: 1px solid #ffcc00;
+            background-color: #fffacd;
+            padding: 15px;
+            margin-top: 20px;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Kompare AI – Terms of Service</h1>
+
+    <h2>1. Acceptance of Terms</h2>
+    <p>Using Kompare AI means you accept these Terms. If you do not agree, you must stop using the service.</p>
+
+    <h2>2. Eligibility</h2>
+    <p>You must be 13 years or older to use Kompare AI.</p>
+
+    <h2>3. Account Responsibilities</h2>
+    <p>You agree to:</p>
+    <ul>
+        <li>Provide accurate information</li>
+        <li>Keep your password secure</li>
+        <li>Not share your account</li>
+        <li>Be responsible for all actions under your account</li>
+    </ul>
+
+    <h2>4. Use of Service</h2>
+    <p>You must not:</p>
+    <ul>
+        <li>Misuse or overload the platform</li>
+        <li>Attempt unauthorized access</li>
+        <li>Use Kompare AI for illegal or harmful purposes</li>
+        <li>Use the service to generate harmful content</li>
+        <li>Bypass billing or token usage tracking</li>
+    </ul>
+
+    <h2>5. AI Output Disclaimer</h2>
+    <p>Kompare AI uses third-party LLMs. AI responses may be:</p>
+    <ul>
+        <li>Incorrect</li>
+        <li>Incomplete</li>
+        <li>Biased</li>
+        <li>Outdated</li>
+    </ul>
+    <p class="disclaimer">You are responsible for independently verifying the information.</p>
+
+    <h2>6. Payments & Billing</h2>
+    <p>Kompare AI uses:</p>
+    <ul>
+        <li>Monthly subscription</li>
+        <li>Pay-as-you-go token billing</li>
+    </ul>
+    <p>Payment providers: Stripe or Razorpay or UPI</p>
+    
+    <h3>Refund Policy</h3>
+    <p>Refunds are not guaranteed and handled on a case-by-case basis.</p>
+
+    <h2>7. Intellectual Property</h2>
+    <p>All software, branding, UI, and content belong to Ungurala Solutions Pvt Ltd.</p>
+    <p>You retain rights to your own text prompts and notes.</p>
+
+    <h2>8. Termination</h2>
+    <p>We may suspend or terminate accounts for:</p>
+    <ul>
+        <li>Abuse</li>
+        <li>Fraud</li>
+        <li>Non-payment</li>
+        <li>Violation of terms</li>
+    </ul>
+    <p>Users may delete their account at any time.</p>
+
+    <h2>9. Limitation of Liability</h2>
+    <p>Kompare AI is provided “as is”. We are not liable for:</p>
+    <ul>
+        <li>Losses due to AI output</li>
+        <li>Errors in third-party LLMs</li>
+        <li>Business decisions made based on responses</li>
+        <li>Data loss or outages</li>
+    </ul>
+    <p>Maximum liability is limited to the amount paid in the last 3 months.</p>
+
+    <h2>10. Jurisdiction</h2>
+    <p>All disputes are governed by:</p>
+    <ul>
+        <li>Laws of India</li>
+        <li>Courts of Telangana (Hyderabad jurisdiction)</li>
+    </ul>
+
+    <h2>11. Changes to Terms</h2>
+    <p>We may modify these Terms anytime. Continued use means acceptance.</p>
+
+</body>
+</html>
