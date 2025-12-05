@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kompare AI – Privacy Policy (Updated)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #007bff;
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 10px;
+            margin-bottom: 5px;
+        }
+        h2 {
+            color: #444;
+            margin-top: 30px;
+        }
+        h3 {
+            color: #555;
+            margin-top: 15px;
+        }
+        p, ul {
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+        .header-info p {
+            margin: 5px 0;
+            font-size: 0.9em;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Kompare AI – Privacy Policy (Updated)</h1>
+
+    <div class="header-info">
+        <p><strong>Effective Date:</strong> December 4, 2025</p>
+        <p><strong>Company:</strong> Ungurala Solutions Pvt Ltd</p>
+        <p><strong>Address:</strong> 1-6-9/A, Road No 41, Chaitanyapuri Colony, Hyderabad, Telangana 500060</p>
+        <p><strong>Contact:</strong> <a href="mailto:varun@kompareai.com">varun@kompareai.com</a></p>
+    </div>
+
+    <hr>
+
+    <h2>1. Introduction</h2>
+    <p>Kompare AI ("we", "our", "us") is a global AI workspace that allows users to compare multiple LLMs side-by-side, organize content into notes, and manage their AI usage efficiently. This Privacy Policy explains how we collect, use, store, and protect your data when you use Kompare AI. We comply with global standards including GDPR, CCPA, India’s DPDP Act, and other applicable privacy laws.</p>
+    <p>By using Kompare AI, you agree to the practices described in this Privacy Policy.</p>
+
+    <h2>2. What Data We Collect</h2>
+    
+    <h3>2.1 Personal Information</h3>
+    <p>We collect the following personal information when you interact with Kompare AI:</p>
+    <ul>
+        <li>Name</li>
+        <li>Email address</li>
+        <li>Profile picture (from Google OAuth or similar services)</li>
+        <li>Profession (optional, for onboarding or waitlist forms)</li>
+        <li>Payment information (processed securely by Stripe/Razorpay; we do NOT store card details)</li>
+    </ul>
+
+    <h3>2.2 Usage Data</h3>
+    <p>We collect information about how you use our platform, including:</p>
+    <ul>
+        <li>Chat prompts and responses (stored 30–90 days)</li>
+        <li>LLM model selection history</li>
+        <li>Canvas activity (browser windows, notes created)</li>
+        <li>Token usage logs</li>
+        <li>Clickstream / UI interactions</li>
+    </ul>
+
+    <h3>2.3 Device & Technical Data</h3>
+    <ul>
+        <li>IP address</li>
+        <li>Browser type and version</li>
+        <li>Operating system</li>
+        <li>Device identifiers</li>
+        <li>Timezone and locale</li>
+    </ul>
+
+    <h3>2.4 Cookies & Tracking Data</h3>
+    <p>We use:</p>
+    <ul>
+        <li>Functional cookies (login, session management)</li>
+        <li>Analytics cookies (Google Analytics, Mixpanel, PostHog)</li>
+        <li>Future advertising/remarketing cookies (may be added later)</li>
+    </ul>
+
+    <h2>3. How We Use Your Data</h2>
+    <p>We use your information for the following purposes:</p>
+
+    <h3>3.1 To Provide and Improve Kompare AI</h3>
+    <ul>
+        <li>Account creation, authentication, and security</li>
+        <li>Processing your AI prompts and displaying output</li>
+        <li>Improving accuracy and performance of AI features</li>
+        <li>Debugging, troubleshooting, and customer support</li>
+    </ul>
+
+    <h3>3.2 Analytics & Product Research</h3>
+    <ul>
+        <li>Understanding usage patterns</li>
+        <li>Measuring feature adoption</li>
+        <li>Improving user experience</li>
+        <li>Generating aggregated & anonymized analytics</li>
+    </ul>
+
+    <h3>3.3 Communication</h3>
+    <ul>
+        <li>Transactional emails (account updates, billing, receipts)</li>
+        <li>Support responses</li>
+        <li>Product updates and feature releases</li>
+        <li>Optional marketing or promotional emails (with opt-out option)</li>
+    </ul>
+
+    <h3>3.4 Legal & Compliance</h3>
+    <ul>
+        <li>Fraud detection</li>
+        <li>Enforcing Terms & Conditions</li>
+        <li>Responding to regulatory or lawful requests</li>
+    </ul>
+
+    <h2>4. Legal Basis for Processing (GDPR & Global Standards)</h2>
+    <p>We rely on the following legal bases:</p>
+    <ul>
+        <li><strong>Performance of Contract:</strong> Providing the Kompare AI service</li>
+        <li><strong>Legitimate Interest:</strong> Improving features, analytics, preventing abuse</li>
+        <li><strong>Consent:</strong> Cookies, email marketing, authentication via Google</li>
+        <li><strong>Legal Obligation:</strong> Handling disputes, complying with tax/law requests</li>
+    </ul>
+
+    <h2>5. How Long We Retain Your Data</h2>
+    <ul>
+        <li>Chat prompts & responses: 30–90 days</li>
+        <li>Account information: Until you delete your account</li>
+        <li>Usage logs: Up to 24 months</li>
+        <li>Payment records: As required by tax/regulation</li>
+        <li>Cookies: As per cookie expiration settings</li>
+    </ul>
+    <p>If you delete your account, we permanently erase your personal information unless legally required to retain some data.</p>
+
+    <h2>6. How We Share Your Data</h2>
+    <p>We do not sell your personal data. We may share information only with:</p>
+
+    <h3>6.1 Service Providers</h3>
+    <ul>
+        <li>LLM API providers: Groq, OpenAI, Deepseek, Mistral, etc.</li>
+        <li>Cloud & storage: Supabase</li>
+        <li>Analytics: Google Analytics, Mixpanel, PostHog</li>
+        <li>Payment processors: Stripe, Razorpay</li>
+    </ul>
+
+    <h3>6.2 Legal, Safety, and Compliance Reasons</h3>
+    <p>We may disclose data if required to:</p>
+    <ul>
+        <li>Comply with legal obligations, court orders, or government requests</li>
+        <li>Detect or prevent fraud, abuse, or security threats</li>
+    </ul>
+
+    <h3>6.3 Business Transfers</h3>
+    <p>If Kompare AI is acquired, merged, or restructured, user data may be transferred to the new entity, with the same privacy protections.</p>
+
+    <h3>6.4 Aggregated / Anonymous Data</h3>
+    <p>We may use aggregated, de-identified data for analytics, product insights, or research. This data cannot identify you.</p>
+
+    <h2>7. Third‑Party LLM Providers</h2>
+    <p>When you enter a prompt into Kompare AI, your content may be transmitted to third‑party LLM providers. These providers may store or log your requests based on their own policies.</p>
+    <p>We cannot control or guarantee how LLM providers store, process, or use data.</p>
+    <p>We encourage you to review their privacy policies.</p>
+
+    <h2>8. Cookies & Tracking</h2>
+    <p>Our Cookie Policy explains in detail how cookies are used for:</p>
+    <ul>
+        <li>Authentication</li>
+        <li>Session persistence</li>
+        <li>Analytics</li>
+        <li>Future advertising & personalization</li>
+    </ul>
+    <p>You can disable cookies in your browser, but some features may not function.</p>
+
+    <h2>9. Children & Minors</h2>
+    <p>Kompare AI is not intended for children under 13 years. If you are under 18, you must use Kompare AI with parental or guardian consent.</p>
+    <p>If we learn that we have collected information from a child under 13, we will delete it immediately.</p>
+
+    <h2>10. Data Security</h2>
+    <p>We use industry-standard security measures:</p>
+    <ul>
+        <li>Encryption in transit (HTTPS/TLS)</li>
+        <li>Role-based access control</li>
+        <li>API key masking</li>
+        <li>Database-level security via Supabase RLS</li>
+        <li>Regular audits and monitoring</li>
+    </ul>
+    <p>No system is 100% secure, but we follow best practices to protect user data.</p>
+
+    <h2>11. International Data Transfers</h2>
+    <p>Your data may be processed in other countries depending on:</p>
+    <ul>
+        <li>Server locations</li>
+        <li>LLM providers</li>
+        <li>Third‑party services</li>
+    </ul>
+    <p>By using Kompare AI, you consent to such transfers.</p>
+
+    <h2>12. Your Rights (Global + GDPR)</h2>
+    <p>Depending on your region, you may have the right to:</p>
+    <ul>
+        <li>Access your data</li>
+        <li>Correct inaccurate information</li>
+        <li>Delete your account & data</li>
+        <li>Export your data</li>
+        <li>Withdraw consent (cookies, marketing)</li>
+        <li>Object to certain processing</li>
+        <li>File a complaint with a data protection authority</li>
+    </ul>
+    <p>To exercise any rights: <a href="mailto:varun@kompareai.com">varun@kompareai.com</a></p>
+
+    <h2>13. Data Breach Policy</h2>
+    <p>If a security breach occurs, we will:</p>
+    <ul>
+        <li>Investigate immediately</li>
+        <li>Notify affected users if required by law</li>
+        <li>Work to mitigate damage & prevent recurrence</li>
+    </ul>
+
+    <h2>14. Changes to This Privacy Policy</h2>
+    <p>We may update this Privacy Policy periodically. The "Effective Date" at the top will reflect the latest version.</p>
+    <p>Significant changes will be communicated via email or in-app notifications.</p>
+
+    <h2>15. Contact Us</h2>
+    <p>For privacy questions, concerns, or data requests:</p>
+    <div class="contact-info">
+        <p><strong>Email:</strong> <a href="mailto:varun@kompareai.com">varun@kompareai.com</a></p>
+        <p><strong>Address:</strong> Ungurala Solutions Pvt Ltd, 1-6-9/A, Road No 41, Chaitanyapuri Colony, Hyderabad, Telangana 500060</p>
+    </div>
+
+    <p style="text-align: center; margin-top: 40px;">Thank you for trusting Kompare AI.</p>
+
+</body>
+</html>
